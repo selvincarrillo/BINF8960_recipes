@@ -6,4 +6,4 @@
 * Salt
  
 ## Instructions
-* Cut up some avocados (Selvin 2)
+* Cut up some avocados
