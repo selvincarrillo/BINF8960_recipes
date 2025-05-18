@@ -6,3 +6,4 @@
 * Salt
  
 ## Instructions
+* Cut up avocados (Selvin)
