@@ -4,6 +4,7 @@
 * Avocado 
 * Lemon 
 * Salt
+* Cilantro 
  
 ## Instructions
 * Cut up some avocados
