@@ -7,3 +7,5 @@
  
 ## Instructions
 * Cut up some avocados
+* Add the lemon and sat
+* Mix well 
